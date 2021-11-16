@@ -1,2 +1,2 @@
-# Codewars
-Various tasks from codewars
+# Js
+Various tasks from CodeWars, Google app scripts etc

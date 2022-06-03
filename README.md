@@ -1,2 +1,1 @@
-# Js
-Various tasks from CodeWars, Google app scripts etc
+Using Google App Scripts to make a script to simplify work with documents
